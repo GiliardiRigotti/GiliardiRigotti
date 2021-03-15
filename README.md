@@ -6,9 +6,9 @@ currently living in <b>Penha - SC.</b></p>
 
 <h3>Where to find me:</h3>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celsoavelinoaraujo/)](https://www.linkedin.com/in/giliardi/)
-   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsodeveloper13@gmail.com&link=mailto:celsodeveloper13@gmail.com)](mailto:giliardi.oliveira@gmail.com)
-   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511983878747&text=Hello!)](https://api.whatsapp.com/send?phone=5547992609578&text=Hello!)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giliardi/)](https://www.linkedin.com/in/giliardi/)
+   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giliardi.oliveira@gmail.com&link=mailto:giliardi.oliveira@gmail.com)](mailto:giliardi.oliveira@gmail.com)
+   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547992609578&text=Hello!)](https://api.whatsapp.com/send?phone=5547992609578&text=Hello!)
    
    <h2>My Development Stack</h2>
    
