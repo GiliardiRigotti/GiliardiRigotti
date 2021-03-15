@@ -4,9 +4,6 @@
 <p>I'm Giliardi, {Mobile and Backend} Developer from <b>Brazil</b>, 
 currently living in <b>Penha - SC.</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NodeJS, React Native, Flutter and Mongoose.
-- 💬 Ask me about ...
 <h3>Where to find me:</h3>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celsoavelinoaraujo/)](https://www.linkedin.com/in/giliardi/)
@@ -38,4 +35,15 @@ currently living in <b>Penha - SC.</b></p>
   <code><img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width=45 height=35 /></code>
   <code><img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width=45 height=35 /></code>
   <code><img src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg" width=45 height=35 /></code>
+</p>
+
+<h3>Utilities</h3>
+<p>
+  <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
+</p>
+
+<h3>Learning</h3>
+
+<p>
+  <code><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width=50 height=50 /></code>
 </p>
