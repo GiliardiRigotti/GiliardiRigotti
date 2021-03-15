@@ -28,7 +28,7 @@ currently living in <b>Penha - SC.</b></p>
 <h3>Frameworks</h3>
 <p>
 <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width=35 height=35/></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width=35 height=35/></code>
 </p> 
 
 <h3>Databases</h3>
