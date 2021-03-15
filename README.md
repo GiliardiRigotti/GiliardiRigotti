@@ -18,14 +18,17 @@ currently living in <b>Penha - SC.</b></p>
   <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
   <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
   <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
+  <code><img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width=35 height=40/></code>
   <code><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-java-by-vexels.png" width=35 height=35/></code>
   <code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></code>
+ 
 </p>
 
 <h3>Frameworks</h3>
 <p>
   <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
+  <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width=35 height=35/></code>
   <code><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width=35 height=35/></code>
 </p> 
