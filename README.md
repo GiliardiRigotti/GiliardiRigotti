@@ -1,4 +1,4 @@
-### Hi, welcome to my page! 👋
+### Hi, welcome to my Gitpage! 👋
 ---
 
 <p>I'm Giliardi, {Mobile and Backend} Developer from <b>Brazil</b>, 
