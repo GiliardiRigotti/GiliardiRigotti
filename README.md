@@ -1,3 +1,4 @@
+<img aling="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 ### Hi, welcome to my Gitpage! 👋
 ---
 
