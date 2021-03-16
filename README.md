@@ -1,4 +1,4 @@
-<img aling="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img aling="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="300">
 ### Hi, welcome to my Gitpage! 👋
 ---
 
