@@ -2,7 +2,7 @@
 <h1> Hi, welcome to my Gitpage! 👋</h1>
 
 <p>I'm Giliardi, {Frontend, Mobile and Backend} Developer from <b>Brazil</b>, 
-currently living in <b>Penha - SC.</b></p>
+currently living in <b>Itajaí - SC.</b></p>
 
 <h3>Where to find me:</h3>
 
@@ -20,7 +20,7 @@ currently living in <b>Penha - SC.</b></p>
 
 <h3>Frameworks</h3>
 <p>
-  <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
+  <code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
   <code><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width=35 height=35/></code>
 </p> 
