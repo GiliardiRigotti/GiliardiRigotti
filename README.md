@@ -14,7 +14,7 @@ currently living in <b>Itajaí - SC.</b></p>
    
 <h3>Languages</h3>
 <p>
-  <code><img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=35 height=35/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=35 height=35/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width=31 height=31/></code>
   <code><img alt="Linguagem de Marcação" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=31 height=31/></code>
    <code><img alt="Linguagem de Marcação" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=31 height=31/></code>
@@ -23,7 +23,7 @@ currently living in <b>Itajaí - SC.</b></p>
 
 <h3>Frameworks</h3>
 <p>
-  <code><img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=35 height=35/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=35 height=35/></code>
 </p> 
