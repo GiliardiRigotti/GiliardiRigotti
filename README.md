@@ -14,33 +14,35 @@ currently living in <b>Itajaí - SC.</b></p>
    
 <h3>Languages</h3>
 <p>
-  <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
-  <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
+  <code><img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=35 height=35/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width=31 height=31/></code>
+  <code><img alt="Linguagem de Marcação" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=31 height=31/></code>
+   <code><img alt="Linguagem de Marcação" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=31 height=31/></code>
+  
 </p>
 
 <h3>Frameworks</h3>
 <p>
-  <code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=35 height=35/></code>
+  <code><img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=35 height=35/></code>
   <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" width=35 height=35/></code>
-  <code><img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width=35 height=35/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=35 height=35/></code>
 </p> 
 
 <h3>Databases</h3>
  <p>
   <code><img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 /></code>
-  <code><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=45 height=35 /></code>
-  <code><img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width=45 height=35 /></code>
-  <code><img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width=45 height=35 /></code>
-  <code><img src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg" width=45 height=35 /></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width=45 height=35 /></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=45 height=35 /></code>
 </p>
 
 <h3>Utilities</h3>
 <p>
   <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
 </p>
-
-<h3>Learning</h3>
-
-<p>
-  <code><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width=50 height=50 /></code>
-</p>
+<div align="center">
+  <a href="https://github.com/GiliardiRigotti">  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiliardiRigotti&count_private=true&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiliardiRigotti&layout=compact&langs_count=7&theme=radical"/>  
+</div>
+</a>
