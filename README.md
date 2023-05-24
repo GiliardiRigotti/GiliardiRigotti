@@ -39,10 +39,3 @@ currently living in <b>Itajaí - SC.</b></p>
 <p>
   <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
 </p>
-<div align="center">
-  <a href="https://github.com/GiliardiRigotti">  
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiliardiRigotti&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiliardiRigotti&layout=compact&langs_count=7&theme=radical"/>  
-</div>
-</a>
